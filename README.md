@@ -21,10 +21,10 @@ Data derived from Kaggle - tumor dataset
 - **Precision in Diagnosis:** The refined CNN models demonstrated a significant enhancement in the precision of tumor categorization, providing a more reliable diagnostic tool for medical professionals.
 
 ## Future Work
-Expanding Data Sources: Integrating additional MRI datasets from diverse demographics to improve the model's generalizability and robustness across various patient populations.
-Refining Model Architecture: Experimenting with more advanced CNN architectures and ensemble methods to further boost detection accuracy and reduce false positives.
-Real-time Application: Developing a real-time diagnostic tool that can be integrated into clinical workflows, offering instant analysis and recommendations based on MRI scans.
-Longitudinal Studies: Exploring the application of our models in tracking tumor progression over time, providing valuable insights for personalized treatment plans.
+- **Expanding Data Sources:** Integrating additional MRI datasets from diverse demographics to improve the model's generalizability and robustness across various patient populations.
+- **Refining Model Architecture:** Experimenting with more advanced CNN architectures and ensemble methods to further boost detection accuracy and reduce false positives.
+- **Real-time Application:** Developing a real-time diagnostic tool that can be integrated into clinical workflows, offering instant analysis and recommendations based on MRI scans.
+
 
 ## Conclusion
 The MRI-based Brain Tumor Detection project has made significant strides in improving the accuracy and reliability of tumor detection using machine learning. By leveraging advanced data augmentation techniques and refining CNN models, we have laid a solid foundation for further advancements in the field of medical imaging. This project not only enhances diagnostic capabilities but also paves the way for the development of more sophisticated tools to assist medical professionals in delivering timely and accurate diagnoses.
